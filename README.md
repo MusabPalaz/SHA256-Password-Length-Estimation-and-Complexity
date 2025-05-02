@@ -3,7 +3,7 @@
 
 **Initial Draft – Ongoing Research**
 **Author: Musab Yavuz PALAZ
-AI-Supported Technical Research: ChatGPT (OpenAI)**
+**AI-Supported Technical Research: ChatGPT (OpenAI)**
 
 ---
 
