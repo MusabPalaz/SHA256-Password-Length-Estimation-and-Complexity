@@ -77,6 +77,11 @@ These thresholds were later used as predictive bands in the password length esti
    * *Figure 2 – Bit Ratio Distribution Plot.*
   
      ![Image](https://github.com/user-attachments/assets/84835a09-75dd-45c2-9b9d-8a3369be479d)
+     *Delta Hash Fingerprint: Varyasyonlara Karşı SHA256 Hamming Mesafesi -> Delta Hash Fingerprint: SHA256 Hamming Distance Against Variations.*
+     
+     *Hamming Mesafesi (bit) -> Hamming Distance (bits).*
+     
+     *Varyasyon No -> Variation No.*
 
 2. **Delta Hash Fingerprint (Variation Profile)**
 
@@ -85,6 +90,11 @@ These thresholds were later used as predictive bands in the password length esti
    * *Figure 3 – Delta Fingerprint Curve.*
   
      ![Image](https://github.com/user-attachments/assets/8d186770-d96d-450d-a4d8-b367a555de61)
+     *Delta Hash Fingerprint: 'admin12' varyasyonlarına karşı Hamming mesafesi -> Delta Hash Fingerprint: Hamming distance against 'admin12' variations.*
+     
+     *Hamming Mesafesi (bit) -> Hamming Distance (bits).*
+     
+     *Varyasyon No -> Variation No.*
 
 3. **Bitwise Diffusion Map**
 
@@ -93,7 +103,11 @@ These thresholds were later used as predictive bands in the password length esti
    * *Figure 4 – SHA256 Bit Position Heatmap.*
   
      ![Image](https://github.com/user-attachments/assets/38460fe5-f34c-4aa8-a7ce-13d0908c303c)
-
+     *SHA256 Hash Bit Sıcaklık Karşılaştırması (50k Örnek) -> SHA256 Hash Bit Temperature Comparison (50k Samples).*
+     
+     *1 Olasılığı -> Probability 1.*
+     
+     *Bit Pozisyonu (0-255) -> Bit Position (0-255).*
 ---
 
 **Visual Outputs**
