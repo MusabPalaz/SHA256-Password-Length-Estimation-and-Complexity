@@ -113,15 +113,16 @@ These thresholds were later used as predictive bands in the password length esti
 ---
 
 **Visual Outputs**
-Figure 1 – Entropy Histogram: Compares entropy levels across passwords of different lengths.
 
-Figure 2 – Bit Ratio Distribution Plot: Shows 1-bit density relative to length.
+*Figure 1 – Entropy Histogram: Compares entropy levels across passwords of different lengths.*
 
-Figure 3 – Delta Fingerprint Curve: Visualizes Hamming distances between variant hashes.
+*Figure 2 – Bit Ratio Distribution Plot: Shows 1-bit density relative to length.*
 
-Figure 4 – Bitwise Heatmap: Highlights most and least volatile bit positions.
+*Figure 3 – Delta Fingerprint Curve: Visualizes Hamming distances between variant hashes.*
 
-Figure 5 – Comparative Diffusion Summary Table: Shows average bit change by password.
+*Figure 4 – Bitwise Heatmap: Highlights most and least volatile bit positions.*
+
+*Figure 5 – Comparative Diffusion Summary Table: Shows average bit change by password.*
 
 ---
 
