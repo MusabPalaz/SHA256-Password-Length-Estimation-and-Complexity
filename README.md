@@ -57,18 +57,24 @@ These thresholds were later used as predictive bands in the password length esti
 
    * *Bit ratio analysis* measures the density of 1-bits in a binary string, providing insight into randomness. SHA256 outputs were evaluated for the proportion of 1s to total bits, and trends across password lengths were assessed.
    * *Figure 2 – Bit Ratio Distribution Plot.*
+  
+     ![Image](https://github.com/user-attachments/assets/84835a09-75dd-45c2-9b9d-8a3369be479d)
 
 3. **Delta Hash Fingerprint (Variation Profile)**
 
    * *Hamming Distance* measures the number of differing bits between two binary strings. In this method, variations of a single word were generated, and Hamming distances between their SHA256 hashes were calculated.
    * These measurements reflect the volatility of hash output in response to small input changes.
    * *Figure 3 – Delta Fingerprint Curve.*
+  
+     ![Image](https://github.com/user-attachments/assets/8d186770-d96d-450d-a4d8-b367a555de61)
 
 4. **Bitwise Diffusion Map**
 
    * *Bitwise variation analysis* maps how frequently each of the 256 SHA256 bit positions changes across input variations.
    * This map visualizes “hot” and “cold” bits to illustrate practical diffusion sensitivity in the SHA256 algorithm.
    * *Figure 4 – SHA256 Bit Position Heatmap.*
+  
+     ![Image](https://github.com/user-attachments/assets/38460fe5-f34c-4aa8-a7ce-13d0908c303c)
 
 ---
 
