@@ -51,6 +51,8 @@ These thresholds were later used as predictive bands in the password length esti
    * Entropy distributions were measured for 3 to 7-character passwords to identify mean and standard deviation profiles.
    * *Figure 1 – Entropy Histogram: Comparison of entropy by password length.*
 
+     ![Image](https://github.com/user-attachments/assets/c8cc1dbe-5cce-422b-a859-29e80eeff17b)
+
 2. **Bit Ratio Analysis**
 
    * *Bit ratio analysis* measures the density of 1-bits in a binary string, providing insight into randomness. SHA256 outputs were evaluated for the proportion of 1s to total bits, and trends across password lengths were assessed.
