@@ -2,8 +2,8 @@
 **SHA256 Password Length Estimation and Complexity Analysis: A Practical Investigation**
 
 **Initial Draft – Ongoing Research**
-**Author: Musab Yavuz PALAZ
-**AI-Supported Technical Research: ChatGPT (OpenAI)**
+Author: Musab Yavuz PALAZ
+*AI-Supported Technical Research: ChatGPT (OpenAI)**
 
 ---
 
