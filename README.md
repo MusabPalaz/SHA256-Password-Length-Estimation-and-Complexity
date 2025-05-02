@@ -133,5 +133,9 @@ Planned technical expansions:
 
 ---
 
+**Thank you for reading and evaluating.**
+
+---
+
 **Note**: This is an active research project developed in parallel with a quantum-mimicking brute-force platform. Future iterations will incorporate these hash analytics into predictive automation layers.
 
