@@ -1,6 +1,8 @@
 # SHA256 Password Length Estimation and Complexity
 **SHA256 Password Length Estimation and Complexity Analysis: A Practical Investigation.**
 
+**This research is planned to estimate the average length of the password from the hash data of the Brute-Force tool that I developed as the behavior of the quantum information processing model. In addition, this tool tries to guess the passwords without requesting a wordlist from the user. I will share the details of the Quantum Behavior Model Brute Force Tool when its development is completed.**
+
 **Initial Draft – Ongoing Research.**
 
 **Author: Musab Yavuz PALAZ**
