@@ -12,6 +12,7 @@
 ---
 
 **Abstract**
+
 This study explores the feasibility of estimating the probable length and structural complexity of passwords by analyzing SHA256 hash outputs. The primary aim is to predict password length from SHA256 digests and uncover structural traces through diffusion behaviors. The study proposes novel approaches that go beyond classical statistical analyses by leveraging the dynamic properties of hash variation patterns.
 
 ---
