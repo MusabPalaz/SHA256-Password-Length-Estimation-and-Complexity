@@ -18,10 +18,10 @@ This study explores the feasibility of estimating the probable length and struct
 
 **Objectives**
 
-* Estimate password length from SHA256 hash outputs
-* Analyze password complexity using entropy, bit density, and hash diffusion behaviors
-* Reveal how SHA256’s structural logic can be repurposed for password analysis
-* Provide accessible insights for non-technical audiences
+* Estimate password length from SHA256 hash outputs.
+* Analyze password complexity using entropy, bit density, and hash diffusion behaviors.
+* Reveal how SHA256’s structural logic can be repurposed for password analysis.
+* Provide accessible insights for non-technical audiences.
 
 ---
 
