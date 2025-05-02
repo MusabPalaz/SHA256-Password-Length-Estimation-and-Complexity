@@ -52,9 +52,7 @@ These thresholds were later used as predictive bands in the password length esti
    * *Figure 1 – Entropy Histogram: Comparison of entropy by password length.*
 
      ![Image](https://github.com/user-attachments/assets/c8cc1dbe-5cce-422b-a859-29e80eeff17b)
-      4 karakterli SHA256 Hash Bit Hotmap (ilk 50000 örnek) -> 4-character SHA256 Hash Bit Hotmap (first 50000 samples)
-      Bit Pozisyonu (0-255) -> Bit Position (0-255)
-      1 Olma Olasılığı -> Probability of being 1
+      
 
 2. **Bit Ratio Analysis**
 
@@ -65,6 +63,11 @@ These thresholds were later used as predictive bands in the password length esti
    * *Figure 5- Bit Heatmap for 4-Character SHA256 Hashes*
   
      ![Image](https://github.com/user-attachments/assets/fa7db092-d178-4c4c-afe7-5bfe21610700)
+     *4 karakterli SHA256 Hash Bit Hotmap (ilk 50000 örnek) -> 4-character SHA256 Hash Bit Hotmap (first 50000 samples)*
+     
+     *Bit Pozisyonu (0-255) -> Bit Position (0-255)*
+     
+     *1 Olma Olasılığı -> Probability of being 1*
 
    * *Figure 2 – Bit Ratio Distribution Plot.*
   
