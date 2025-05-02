@@ -1,7 +1,7 @@
 # SHA256 Password Length Estimation and Complexity
-**SHA256 Password Length Estimation and Complexity Analysis: A Practical Investigation**
+**SHA256 Password Length Estimation and Complexity Analysis: A Practical Investigation.**
 
-**Initial Draft – Ongoing Research**
+**Initial Draft – Ongoing Research.**
 
 **Author: Musab Yavuz PALAZ**
 
@@ -166,10 +166,10 @@ To expand this research, the following questions should guide further developmen
 
 Planned technical expansions:
 
-* Comparative analysis with non-SHA256 hash algorithms (e.g., MD5, SHA3)
-* Use of AI models (e.g., MLP/CNN) trained on hash features to infer password length
-* Structural complexity scores derived from aggregated hash variation data
-* Integration with brute-force pre-filtering engines to prioritize likely password ranges
+* Comparative analysis with non-SHA256 hash algorithms (e.g., MD5, SHA3).
+* Use of AI models (e.g., MLP/CNN) trained on hash features to infer password length.
+* Structural complexity scores derived from aggregated hash variation data.
+* Integration with brute-force pre-filtering engines to prioritize likely password ranges.
 
 ---
 
