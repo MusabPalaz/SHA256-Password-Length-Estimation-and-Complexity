@@ -52,7 +52,11 @@ These thresholds were later used as predictive bands in the password length esti
    * *Figure 1 – Entropy Histogram: Comparison of entropy by password length.*
 
      ![Image](https://github.com/user-attachments/assets/c8cc1dbe-5cce-422b-a859-29e80eeff17b)
-      
+     *SHA256 Bit Salınım Haritası 'hunter 7' varyasyonları -> SHA256 Bit Oscillation Map 'hunter 7' variations*
+
+     *Bit Pozisyonu (0-255) -> Bit Position (0-255)*
+
+     *Değişme oranı (0-1) -> Change rate (0-1)*
 
 2. **Bit Ratio Analysis**
 
@@ -68,6 +72,7 @@ These thresholds were later used as predictive bands in the password length esti
      *Bit Pozisyonu (0-255) -> Bit Position (0-255)*
      
      *1 Olma Olasılığı -> Probability of being 1*
+     
 
    * *Figure 2 – Bit Ratio Distribution Plot.*
   
