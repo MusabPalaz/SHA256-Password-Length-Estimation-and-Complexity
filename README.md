@@ -56,10 +56,10 @@ These thresholds were later used as predictive bands in the password length esti
 2. **Bit Ratio Analysis**
 
    * *Bit ratio analysis* measures the density of 1-bits in a binary string, providing insight into randomness. SHA256 outputs were evaluated for the proportion of 1s to total bits, and trends across password lengths were assessed.
-   * Figure 5 - Bit Heatmap for 4-Character SHA256 Hashes*
-   * A heatmap showing the 1-bit likelihood for each bit position across 50,000 SHA256 hashes generated from 4-character passwords. Useful for detecting positional bias or uniformity.*
+   * *Figure 5 - Bit Heatmap for 4-Character SHA256 Hashes*
+   * *A heatmap showing the 1-bit likelihood for each bit position across 50,000 SHA256 hashes generated from 4-character passwords. Useful for detecting positional bias or uniformity.*
   
-   * Figure 5
+   * *Figure 5- Bit Heatmap for 4-Character SHA256 Hashes*
   
      ![Image](https://github.com/user-attachments/assets/fa7db092-d178-4c4c-afe7-5bfe21610700)
 
