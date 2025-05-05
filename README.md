@@ -7,7 +7,7 @@
 
 **Author: Musab Yavuz PALAZ**
 
-**Supporters of The Project: Elif Bulut, Gülzade Yağış**
+**Supporters of The Project: Elif BULUT, Gülzade YAĞIŞ**
 
 **AI-Supported Technical Research: ChatGPT (OpenAI)**
 
