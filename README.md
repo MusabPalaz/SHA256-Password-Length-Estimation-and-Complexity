@@ -48,6 +48,8 @@ This study explores the feasibility of estimating the probable length and struct
 
 These thresholds were later used as predictive bands in the password length estimation models.
 
+*As can be seen from the threshold ranges, the ranges are too high and therefore not sufficient to determine character length on their own.*
+
 *This section briefly defines the analytical techniques used. Each method includes a conceptual explanation and an overview of its application.*
 
 1. **Entropy Analysis**
